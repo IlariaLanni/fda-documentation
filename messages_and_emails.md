@@ -19,6 +19,7 @@ published: true
 
 
 
+
 ##**Guest Messages**  
 
 
@@ -71,7 +72,7 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
 
 {{site.data.alerts.warning}} Be aware that the templates design have been built so to ensure they will render good when sent via emails on both computers and mobile devices. If you want to change the design, we do not guarantee that the template will render as good as the default ones. {{site.data.alerts.end}}  
 
-
+Click [here](http://docs.frontdeskanywhere.net/build/application_resources.html) to have a full list of al the variables available for template customization!
 
  - In the Admin Settings, click on the blue link **Templates** under section _General_:  
  
